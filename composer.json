@@ -1,0 +1,16 @@
+{
+    "name": "eyasu/safe-term-media-delete",
+    "autoload": {
+        "psr-4": {
+            "SafeTermMediaDelete\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eyasu's"
+        }
+    ],
+    "require": {
+        "cmb2/cmb2": "^2.10"
+    }
+}
